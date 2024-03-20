@@ -1,0 +1,110 @@
+.logo img{
+    height: 60px;
+    width: 80px;
+}
+.nav-item a:hover{
+    color: #3bb77e;
+    font-weight: 400;
+}
+.frm input{
+    width: 300px;
+    border: 1px solid #3bb77e;
+    margin-left: -400px;
+}
+.fa-magnifying-glass{
+    margin-left: -40px;
+    color: white;
+    background-color: #3bb77e;
+    padding: 10px;
+    width: 50px;
+    text-align: center;
+    border-radius: 0px 10px 10px 0px;
+}
+.fa-cart-shopping{
+    font-size: 25px;
+}
+.badge{
+    font-size: 12px;
+    background-color: #3bb77e;
+}
+.sld img{
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+.clm{
+    background-color: white;
+    box-shadow: 10px 10px 30px rgb(193, 189, 189);
+    height: 150px;
+    width: 160px;
+    border-radius: 5px;
+}
+.clm img{
+    margin-left: 25px;
+    margin-top: 5px;
+}
+.clm p{
+    text-align: center;
+    color: rgb(153, 153, 153);
+    margin-top: 10px;
+}
+.clm img:hover{
+    transform: scale(1.1);
+    transition: .5s;
+}
+.card{
+    border: none;
+    box-shadow: 10px 10px  50px rgb(211, 209, 209);
+}
+.card img{
+    height: 70%;
+    width: 70%;
+    margin-left: 38px;
+}
+.card img:hover{
+    transform: scale(1.1);
+}
+.crd-sc{
+    display: grid;
+    grid-template-columns: 290px 290px 290px 290px;
+}
+.crd p{
+    font-size: small;
+    color: #07bc0c;
+    margin-left: 100px;
+}
+.btn1{
+    border:2px solid #3bb77e;
+    color: #3bb77e;
+    border-radius: 5px;
+    background-color: white;
+    font-size: 11px;
+    padding: 7px;
+}
+.btn1:hover{
+    background-color: #3bb77e;
+    transform: scaleX(1.2);
+    color: white;
+}
+.btn2{
+    border-radius: 5px;
+    color: white;
+    background-color:#3bb77e;
+    font-size: 11px;
+    padding: 7px;
+    border: none;
+    margin-left: 30px;
+}
+.btn2:hover{
+    transform: scaleX(1.2);
+}
+.ft-logo img{
+    height: 100px;
+    width: 100px;
+}
+.ft1{
+    margin-left: 300px;
+}
+.ft2{
+    margin-left: 300px;
+}
